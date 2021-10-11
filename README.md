@@ -1,4 +1,4 @@
 # Data-Cleaning
-Various methods to cleaning data-
+Various methods to clean data-
 
 1)Handling missing values
